@@ -64,26 +64,27 @@ npm install
 npm run dev
 
 ### Frontend
+
 ```bash
 cd frontend
 npm install
 npm run dev
+```
+
+---
 
 ## Why This Project
 
-This project was built to demonstrate:
+Built to demonstrate:
 
-Full-stack development skills
+- Full-stack development skills
+- API design and database integration
+- Real-time style dashboards
+- Clean project structure
+- Ability to explain system architecture clearly
 
-API design and database integration
+---
 
-Real-time style dashboards
+## Author
 
-Clean project structure
-
-Ability to explain system architecture clearly
-
-
-##Author
-
-Built by Duggineni Srujana
+Built by **Duggineni Srujana**
