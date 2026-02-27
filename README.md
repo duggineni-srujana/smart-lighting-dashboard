@@ -62,15 +62,13 @@ This project simulates IoT lighting sensors, stores readings in a database, and 
 cd backend
 npm install
 npm run dev
-
+```
 ### Frontend
-
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-
 ---
 
 ## Why This Project
